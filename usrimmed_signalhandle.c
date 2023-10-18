@@ -16,7 +16,7 @@ void usrimmed(void)
 		write(STDERR_FILENO, "$ ", 2);
 }
 /**
- *signalhandler- continue to maintain the track is interactive mode
+ *signalhandle- continue to maintain the track is interactive mode
  *@m: the signal number
  *Return: nothing
  */
