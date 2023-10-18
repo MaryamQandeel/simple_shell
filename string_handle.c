@@ -85,7 +85,7 @@ char *stringdup(char *s)
 }
 
 /**
-* strngncmpn - performs an operation comparing two strings of up to n bytes
+* strngcompn - performs an operation comparing two strings of up to n bytes
 *
 * @s_1: paired with s2
 * @s_2: paired with s1
